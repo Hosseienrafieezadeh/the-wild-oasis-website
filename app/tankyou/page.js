@@ -11,7 +11,7 @@ export default function Page() {
         className="underline text-xl text-accent-500 inline-block"
       >
         Manage your reservations &rarr;
-      </Lin>
+      </Link>
     </div>
   );
 }
